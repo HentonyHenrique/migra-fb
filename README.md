@@ -1,5 +1,6 @@
-Software de Migração do Sistema HOST para Ello Master
-Este software em Delphi foi desenvolvido para facilitar a migração de dados do sistema HOST, que utiliza um banco de dados Firebird, para o sistema Ello Master, que utiliza um banco de dados MySQL. Ele oferece uma solução eficiente e automatizada para migrar os dados de um sistema para outro, minimizando os esforços manuais e reduzindo o tempo necessário para a migração.
+#Software de Migração do Sistema HOST para Ello Master
+
+#Este software em Delphi foi desenvolvido para facilitar a migração de dados do sistema HOST, que utiliza um banco de dados Firebird, para o sistema Ello Master, que utiliza um banco de dados MySQL. Ele oferece #uma solução eficiente e automatizada para migrar os dados de um sistema para outro, minimizando os esforços manuais e reduzindo o tempo necessário para a migração.
 
 Funcionalidades
 Migração de dados: O software permite migrar os dados do sistema HOST, incluindo tabelas, registros e relacionamentos, para o formato adequado do sistema Ello Master.
